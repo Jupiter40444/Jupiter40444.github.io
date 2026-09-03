@@ -3,7 +3,7 @@ layout: post
 title: Post Test Number One!
 subtitle: Info about me!
 cover-img: /assets/img/Jupiter.png
-tags: [books, test]
+tags: [post, test]
 author: Jupiter
 ---
 
