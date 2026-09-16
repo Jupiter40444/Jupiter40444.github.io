@@ -13,5 +13,4 @@ stitch looked and thought with the light pink color it looked like a rose. As fo
 give a tip to myself before starting this project it would be not to be afraid or impatient with taking the fabric out of the embroidery hoop and to really take your time sketching out the stitches. 
 It's kind of a pain to take the fabric in and out of the hoop but it's easier than having to redo the stitches which I definitely had to do a few times. 
 
-! [sewing] (https://jupiter40444.github.io/assets/img/sewingprojectmain.png)
-![sewing](https://beautifuljekyll.com/assets/img/crepe.jpg)
+![sewing](https://jupiter40444.github.io/assets/img/sewingprojectmain.png)
