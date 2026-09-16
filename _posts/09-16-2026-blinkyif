@@ -1,0 +1,17 @@
+---
+layout: post
+title: Blinky If project
+subtitle: Tips I'd give to my past self
+tags: [arduino]
+author: Jupiter Chapman
+---
+For this project we needed to blink 4 lights, each corresponding to a different number. The yellow light blinked when any number of seconds divisble by 5 had elapsed, the red light whenever any number of seconds 
+divisble by 6, and so on and so forth up until the blue light. The first part of this was super simple, just a count variable and a mod function. What made it difficult for me was that the lights needed to stay on
+until enough time had elapsed for anothe light to blink (ie. for the gap between 10 and 12 seconds the yellow light needed to stay on for two seconds, rather than one second before). I tried to logic out a solution 
+for this, and wasted a lot of my time thinking about the "delay" variable, and if I should try and have it change/adapt. My tip for my former self would be to avoid doing that. I ended up going to the math and science
+help hours, and they helped a ton, showing me that I could store whichever light most recently blinked as a variable "color", and make sure that light stayed on until the next one could flash. 
+
+![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
+
+
+
