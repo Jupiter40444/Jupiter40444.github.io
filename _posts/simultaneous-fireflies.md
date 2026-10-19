@@ -9,5 +9,5 @@ do was copy and paste the code in to one big file, delete redundancies, and make
 sort of timer based activation of the bulb, usually requiring a state variable/boolean, and for the instances where the bulb was getting gradually brighter, it required fade time and amount variables. 
 I would advise anyone attempting this code to be very careful and intentional about naming their variables. 
 
-![ledpic](https://jupiter40444.github.io/assets/img/alligatorwristband1.png)  
+![ledpic](https://jupiter40444.github.io/assets/img/ledpic.png)  
 
