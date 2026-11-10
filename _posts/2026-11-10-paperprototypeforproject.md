@@ -13,11 +13,11 @@ turn on several LED pins.
 The t-shirt traces will likely be the most complicated aspect. There shouldn't be any problems with the conductive thread on the wrong side, but there will be some overlap going to the ground pin on the Arduino.
 I'd like to try and insulate my thread with a shoelace, or try to use decorative embroidery to solve this problem. 
 
-![belt](https://jupiter40444.github.io/assets/img/belt.png)  
+![belt](https://jupiter40444.github.io/assets/img/belt.png)   
 The belt is a little bit simpler. It contains three snaps that will need to connect to the snaps on the t-shirt in order to give power to its circuit. The biggest problem that I foresee is working within such a small 
 area. 
 
-![necklace](https://jupiter40444.github.io/assets/img/necklace.png)  
+![necklace](https://jupiter40444.github.io/assets/img/necklace.png)   
 The necklace is by far the easiest. I will sew from the positive battery holder pin to the switch, to the positive pin of the LED, to the negative pin of the following LED, and so on. Eventually this will loop back 
 to the negative battery holder pin. 
 
