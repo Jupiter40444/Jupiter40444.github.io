@@ -17,7 +17,7 @@ I'd like to try and insulate my thread with a shoelace, or try to use decorative
 The belt is a little bit simpler. It contains three snaps that will need to connect to the snaps on the t-shirt in order to give power to its circuit. The biggest problem that I foresee is working within such a small 
 area. 
 
-![necklace](https://jupiter40444.github.io/assets/img/necklace.png)   
+![necklace](https://jupiter40444.github.io/assets/img/necklacecorrections.png)   
 The necklace is by far the easiest. I will sew from the positive battery holder pin to the switch, to the positive pin of the LED, to the negative pin of the following LED, and so on. Eventually this will loop back 
 to the negative battery holder pin. 
 
