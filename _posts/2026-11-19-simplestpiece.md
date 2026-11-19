@@ -28,6 +28,7 @@ Citations of any resources used
 
 ![alligatorclipfornecklace](https://jupiter40444.github.io/assets/img/alligatorclipfornecklace.png) 
 
+![necklace](https://jupiter40444.github.io/assets/img/necklacecorrections.png)   
 
 
 
