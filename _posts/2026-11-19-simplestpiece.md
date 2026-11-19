@@ -1,3 +1,9 @@
+---
+layout: post
+title: Simplest Circuitry Piece 
+tags: [sewing, light pins, snaps, homemade buttons, final project, project pieces]
+author: Jupiter Chapman
+---
 Project Collection Piece title, description, and motivation
 Comprehensive materials list for this Piece
 Photo/Screenshot of your revised paper prototype of this Piece:
@@ -10,4 +16,19 @@ Photo of at least 2 states of your working Piece (or video or gif) --> show what
 Should look professional/polished.
 2 tips to your past self
 Citations of any resources used
+
+
+
+
+![feltnecklace](https://jupiter40444.github.io/assets/img/feltnecklace.png)   
+
+![feltnecklaceoff](https://jupiter40444.github.io/assets/img/feltnecklaceoff.png) 
+
+![feltnecklaceon](https://jupiter40444.github.io/assets/img/feltnecklaceon.png) 
+
+![alligatorclipfornecklace](https://jupiter40444.github.io/assets/img/alligatorclipfornecklace.png) 
+
+
+
+
 
